@@ -1,0 +1,52 @@
+{
+    "data":[
+        {
+            "image":"https://assets.interntheory.com/uploads/company/logos/dec6627e07033fe66229268586e8a1a11fca57ce.jpg",
+         "status" :"Fullstack Developer",
+         "company":"Mingout Social Technologies Ltd",
+         "work":"Full Time,Work From Home Internship",
+         "address":"Goregon Delhi sector15",
+         "monay":"5000 per month" 
+        },
+        {
+            "image":"https://assets.interntheory.com/uploads/company/logos/6c0a3b959003ddb8e782d29244401adfea28a06d.jpg",
+            "status":"Social Media internship",
+            "company":"Gokrazee Innovations Private Limited",
+            "work":"Part Time,Work From Home Internship",
+            "address":"Social Media",
+            "monay":"5000 per month"
+        },
+        {
+            "image":"https://assets.interntheory.com/uploads/company/logos/6c0a3b959003ddb8e782d29244401adfea28a06d.jpg",
+            "status":"Social Media Intern - Instagram",
+            "company":"Re-Engineering Business Solutions Pvt Ltd.",
+            "work":"Work From Home,Part Time Internship",
+            "address":"Social Media",
+            "monay":"5000 per month"
+        },
+        {
+            "image":"https://assets.interntheory.com/uploads/company/logos/476f155a563c3c617f6fbbdab28f81d83d15df3b.jpg",
+            "status":"Digital Media Intern",
+            "company":"Khadi Prakritik Paint",
+            "work":"Work From Home Internship",
+            "address":"Indore,Delhi,Pune,...MORE",
+            "monay":"None"
+        },
+        {
+            "image":"https://assets.interntheory.com/uploads/company/logos/27b28789d03e086cfd70fbace4ff9cf69fc95f5f.jpg",
+            "status":"Sales Intern Needed",
+            "company":"CallXP Communications Pvt Ltd",
+            "work":"Full Time,Work From Home Internship",
+            "address":"Delhi,Gurgaon,Greater Noida,...MORE",
+            "monay":"3000-7000/month"  
+        },
+        {
+            "image":"https://assets.interntheory.com/uploads/company/logos/684dd8e973f0eff7a685c74f0da1b92a3f308897.jpg",
+            "status":"UI Design Intern",
+            "company":"Rabbit Loader",
+            "work":"Work From Home Internship",
+            "address":"Kolkata,Delhi,Bangalore",
+            "monay": "5000 per month"
+        }
+    ]
+}
